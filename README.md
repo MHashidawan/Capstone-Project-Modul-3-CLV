@@ -2,10 +2,10 @@
  Machine Learning Analisyst on Customer Lifetime Value
 
 # Background
-Customer lifetime value atau CLV adalah suatu ukuran seberapa berharga suatu customer terhadap perusahaan. Dari nilai tersebut, perusahhan dapat menentukan berapa keuntungan yang dipatkan dari satu penumpang dan biaya yang dikeluarkan untuk memperoleh customer baru atau mempertahankan customer lama. Angka ini cukup penting diketahui oleh suatu perusahaan jika perusahaan ingin secara efektif menargetkan pemasaran kepada pelanggan yang berharga dan bagaimana pelanggan perusahaan tersebut berubah kedepannya.
+_Customer Lifetime Value_ atau CLV adalah suatu ukuran terkait berpengaruhnya suatu customer terhadap perusahaan. Dari nilai tersebut, perusahaan dapat menentukan jumlah keuntungan yang akan didapatkan dari satu pelanggan dan biaya yang akan dikeluarkan untuk memperoleh pelanggan baru atau mempertahankan pelanggan lama. Hal ini berguna agar perusahaan dapat secara efektif menargetkan pemasaran kepada pelanggan yang tepat dan bagaimana mengoptimalkan pelanggan perusahaan dalam jangka waktu panjang.
 
 # Problem Statement
-Lifetime value bisa  dihitung berdasarkan data dari sejarah customer bersama perusahaan, dalam konteks perusahaan asuransi bisa dihitung berdasarkan total premi yang dibayarkan dikurang klaim dan biaya oprasional yang dikelurakan oleh perusahaan pada customer tersebut. Menghitung customer lifetime value berdasarkan sejarahnya membutuhkan cukup banyak waktu (menghitung keseluruhan waktu customer bersama perusahaan). Saat perhitungan sudah selesai, strategi bisnis mungkin sudah terlambat diberlakukan. Contohnya pada penawaran perpanjangan asuransi. Diperlukan metode yang dapat memprediksi customer lifetime value.
+_Customer Lifetime Value_ dapat dihitung melalui analisis data historis interaksi pelanggan dengan perusahaan. Dalam konteks perusahaan asuransi, perhitungan ini melibatkan pengurangan total premi yang dibayarkan dari klaim dan biaya operasional yang dikeluarkan oleh perusahaan untuk pelanggan tersebut. Meskipun demikian, jika hanya mengandalkan data historis untuk menghitung CLV dapat memakan waktu yang cukup lama disebabkan durasi yang komprehensif dari hubungan pelanggan dengan perusahaan. Jika hal ini terjadi akan menyebabkan keterlambatan untuk menerapkan keputusan bisnis strategis, seperti penawaran perpanjangan asuransi. Oleh karena itu, diperlukan metode prediktif untuk memperkirakan CLV dengan lebih efisien.
 
 # Analytic Approach
 
